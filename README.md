@@ -25,6 +25,10 @@ To install wget -
 
 `brew install wget`
 
+To install lynx -
+
+`brew install lynx`
+
 ##To install the Coursera preview videos-
 `sh coursera-preview-download.sh https://class.coursera.org/<course>/lecture/preview`
 
