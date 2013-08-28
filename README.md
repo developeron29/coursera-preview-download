@@ -25,7 +25,7 @@ To install wget -
 
 `brew install wget`
 
-##To install the Cousera preview videos-
+##To install the Coursera preview videos-
 `sh coursera-preview-download.sh https://class.coursera.org/<course>/lecture/preview`
 
 example:- 
