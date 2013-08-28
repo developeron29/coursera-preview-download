@@ -15,7 +15,7 @@ So, You can use this script to download all the video files to your system.
 Shoot the terminal-
 
 
-###For mac users who **don't** have `wget` installed
+###For mac users who **don't** have `wget` and `lynx` installed
 Run 
 
 To install homebrew -
