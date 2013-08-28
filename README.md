@@ -9,9 +9,29 @@ downloadable links.
 
 So, You can use this script to download all the video files to your system.
 
-### Usage
-`sh coursera-preview-download https://class.coursera.org/<course>/lecture/preview`
-like
-`sh coursera-preview-download https://class.coursera.org/nlp/lecture/preview`
 
-Now wait till all your video files get downloaded :)
+### Usage
+
+Shoot the terminal-
+
+
+###For mac users who **don't** have `wget` installed
+Run 
+
+To install homebrew -
+`ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"`
+
+To install wget -
+
+`brew install wget`
+
+
+`sh coursera-preview-download.sh https://class.coursera.org/<course>/lecture/preview`
+
+example:- 
+
+`sh coursera-preview-download.sh https://class.coursera.org/nlp/lecture/preview`
+
+
+
+Now wait till all your video files gets downloaded :)
