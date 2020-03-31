@@ -1,4 +1,4 @@
-[DEPRECATED. NO LONGER MAINTAINED] - Was built at a time, when all courses were free and API had a different structure.
+[DEPRECATED. NO LONGER MAINTAINED] - Was built at a time, when all courses were free.
 
 coursera-preview-download
 =========================
